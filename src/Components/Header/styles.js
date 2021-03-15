@@ -7,8 +7,9 @@ export const Container = styled.header`
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  height: 90px;
+  height: 4rem;
   padding: 0 30px;
+  background: ${colors.orangeMain};
 
   div {
     display: flex;
