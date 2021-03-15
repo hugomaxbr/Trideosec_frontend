@@ -57,7 +57,7 @@ export const Form = styled.form`
   font-weight: 700;
   
   Button{
-    margin-top: 50px;
+    margin-top: 40px;
   }
 
 `;
